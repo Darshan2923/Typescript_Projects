@@ -1,4 +1,4 @@
-# TypeScript & React Learning Repository
+# TypeScript Repository
 
 Welcome to my **TypeScript & React Learning Repository**! 🚀 This repository is dedicated to exploring and building various projects using **TypeScript** and **React** to strengthen my understanding of both technologies.
 
